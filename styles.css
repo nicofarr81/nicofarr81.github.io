@@ -1,0 +1,56 @@
+h1  {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+h3  {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+.carousel-inner {
+  align-self: center;
+}
+.carousel-item img {
+    height: 576px;
+    width: 388px;
+}
+.navbar-light .navbar-brand {
+  color: #836EAA;
+}
+.jumbotron.title {
+  background-image: url(title.JPG);
+  height: 500px;
+}
+.jumbotron.other {
+  background-image: url(other.JPG);
+  height: 200px;
+}
+.jumbotron {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron img {
+  width: 100px;
+}
+.jumbotron h1 {
+  color: white;
+}
+.jumbotron h3 {
+  color: white;
+}
+table {
+  text-align: left;
+}
+a {
+  color: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+}
+img {
+  width: 100%;
+}
+.footer {
+  text-align: center;
+  align-self: baseline;
+}
