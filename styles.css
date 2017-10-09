@@ -5,6 +5,7 @@ h1  {
 h3  {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
+  font-size: 20px;
 }
 .navbar-light .navbar-brand {
   color: #836EAA;
@@ -48,4 +49,7 @@ img {
 .footer {
   text-align: center;
   align-self: baseline;
+}
+.footer a {
+  color: black;
 }
